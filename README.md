@@ -14,4 +14,4 @@ No
 If you use this codebase or any part of it for a publication, please cite:
 Wang Z, Xie H. Wireless Sensor Network Deployment of 3D Surface Based on Enhanced Grey Wolf Optimizer[J]. IEEE Access, 2020, 8: 57229-57251.
 # Contact
-fhzm1995@163.com
+qianyue17@gmail.com
